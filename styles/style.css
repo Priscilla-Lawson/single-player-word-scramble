@@ -1,0 +1,77 @@
+body {
+  background-image: url("https://t3.ftcdn.net/jpg/03/08/71/84/360_F_308718440_Lsad7H4qi33o1ofctkV5CDNv51hiHbMS.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 40px;
+  background-position: left;
+  font-family: "Roboto", sans-serif;
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+  color: #fff;
+  text-shadow: 1px 1px 5px blue;
+  font-family: "Kumar One Outline", cursive;
+}
+
+.container {
+  width: 500px;
+  padding: 20px;
+  margin: auto;
+  background-color: rgba(0, 0, 0, 0.8);
+  border-radius: 14px;
+  border: 4px double #ffeaa7;
+  color: #fff;
+}
+
+#word {
+  font-size: 32px;
+  color: #ffeaa7;
+  letter-spacing: 8px;
+}
+
+input {
+  background-color: transparent;
+  color: #fff;
+  border: none;
+  outline: none;
+  border-bottom: 1px solid #ffeaa7;
+  font-size: 18px;
+  text-align: center;
+  transition: 0.2s all ease;
+}
+
+button {
+  background-color: #000;
+  color: #fff;
+  margin-top: 20px;
+  border: 1px solid cyan;
+  padding: 10px;
+  cursor: pointer;
+  font-size: 18px;
+}
+
+#time {
+  color: #000;
+  margin: auto;
+  padding: 5px 0;
+  background-color: #ffeaa7;
+  width: 520px;
+  border-radius: 5px 5px 0 0;
+}
+
+#word-count {
+  text-align: right;
+}
+
+.wrong {
+  color: rgb(255, 0, 0);
+  border-color: rgb(255, 0, 0);
+}
+
+img {
+  height: 100px;
+  width: 100px;
+  border-radius: 8%;
+}/*# sourceMappingURL=style.css.map */

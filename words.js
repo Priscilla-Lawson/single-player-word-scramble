@@ -1,0 +1,30 @@
+const wordlist = [
+    "that", "have", "with", "this", "from", "they", "would", "there",
+    "their", "what", "about", "which", "when", "make", "like", "just",
+    "know", "take", "into", "your", "good", "some", "them", "other",
+    "than", "then", "look", "come", "over", "think", "back", "after",
+    "work", "well", "even", "want", "because", "these", "give", "most",
+    "many", "time", "year", "life", "thing", "where", "people", "more",
+    "could", "first", "being", "those", "great", "world", "while", "never",
+    "under", "still", "found", "place", "right", "small", "again",
+    "house", "point", "today", "always", "money", "group", "school",
+    "family", "state", "since", "asked", "music", "story", "paper",
+    "often", "father", "mother", "water", "friend", "rather", "matter",
+    "change", "really", "reason", "inside", "outside", "behind",
+    "against", "toward", "within", "without", "between", "through",
+    "before", "during", "afterward", "moment", "second", "minute",
+    "hour", "tomorrow", "morning", "evening", "season", "winter",
+    "summer", "spring", "autumn", "weather", "window", "garden",
+    "flower", "nature", "animal", "forest", "desert", "ocean",
+    "river", "mountain", "valley", "travel", "journey", "adventure",
+    "discover", "explore", "imagine", "create", "invent", "develop",
+    "progress", "success", "wisdom", "knowledge", "learning",
+    "teacher", "student", "school", "university", "history",
+    "science", "technology", "computer", "internet", "digital",
+    "future", "present", "memory", "experience", "emotion",
+    "feeling", "happiness", "sadness", "anger", "friendship",
+    "relationship", "family", "parent", "brother", "sister",
+    "uncle", "aunt", "cousin", "relative"
+];
+
+
